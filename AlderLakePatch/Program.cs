@@ -49,7 +49,7 @@ namespace AlderLakePatcher
                 }
                 catch (Exception e)
                 {
-                    MessageBox.Show("Failed to patch executable!");
+                    MessageBox.Show("Failed to patch executable!"+Environment.NewLine+"Error: "+Environment.NewLine+e.ToString());
                 }
             }
         }
