@@ -1,5 +1,5 @@
 # AlderLakePatcher
-Frontend for patching games to fix Alder Lake crashes on boot.
+Frontend for patching games to fix Alder Lake and Raptor Lake crashes on boot.
 
 Uses PeNet: https://github.com/secana/PeNet
 
@@ -10,3 +10,5 @@ Made for TS3 primarily, but could probably work for other games.
 ## Usage
 
 Simply open the program and locate the executable of the game you want to fix.
+
+
