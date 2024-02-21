@@ -1,4 +1,4 @@
-# AlderLakePatcher and RaptorLakePatcher
+# AlderLakePatcher
 Frontend for patching games to fix Alder Lake and Raptor Lake crashes on boot.
 
 Uses PeNet: https://github.com/secana/PeNet
